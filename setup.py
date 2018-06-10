@@ -1,3 +1,4 @@
+#requires cx_Freeze
 from cx_Freeze import setup, Executable
 
 base = None    
